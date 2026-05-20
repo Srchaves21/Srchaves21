@@ -38,13 +38,29 @@
 
 <hr>
 
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Srchaves21&show_icons=true&theme=tokyonight" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srchaves21&layout=compact&theme=tokyonight" 
+  />
+</p>
+
+<hr>
+
 <h2>🌐 Onde me encontrar</h2>
 
 <p>
-  <a href="www.linkedin.com/in/joão-vitor-457991218" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-vitor-457991218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+</p>
 <hr>
 
 <p align="center">
