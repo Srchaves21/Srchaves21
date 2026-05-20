@@ -38,26 +38,13 @@
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<hr>
-
 <h2>🌐 Onde me encontrar</h2>
 
 <p>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="www.linkedin.com/in/joão-vitor-457991218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
+  
 <hr>
 
 <p align="center">
